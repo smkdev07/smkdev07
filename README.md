@@ -1,4 +1,4 @@
-### Welcome, here is what I am working on! 👋
+### Welcome 👋
 
 - 🔭 I’m currently working on ... React/TypeScript Component Library
 - 🌱 I’m currently learning ... Vue3.js
