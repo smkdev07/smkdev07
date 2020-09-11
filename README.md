@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome, here is what I am working on! 👋
 
+- 🔭 I’m currently working on ... React/TypeScript Component Library
+- 🌱 I’m currently learning ... Vue3.js
+- 💬 One Step Forward, Every Day.
+- ⚡ Fun fact: ... I play the drums.
 <!--
 **smkdev07/smkdev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
